@@ -28,7 +28,7 @@ namespace ConsoleApp1
                 DeliveryFormat = SmtpDeliveryFormat.International,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("anand@thinksys.com", "tritonking8")
+                Credentials = new NetworkCredential("anand@thinksys.com", "xxxxxxxxxxxxxxxxx")
             };
 
 
